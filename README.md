@@ -4,12 +4,10 @@
 Welcome to my GitHub repository! I'm a passionate cybersecurity engineer currently advancing my skills and knowledge through hands-on projects, real-world problem-solving, and continuous learning. This repository serves as a showcase of my journey, including personal projects,vulnerability research, and secure coding practices.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 I'm a cybersecurity enthusiast with a strong focus on:
 
-Offensive Security: Red teaming, penetration testing, vulnerability assessments, and exploit development.
-DevSecOps: Automating security in the CI/CD pipeline and cloud security.
+###Offensive Security: Red teaming, penetration testing, vulnerability assessments, and exploit development.
+###DevSecOps: Automating security in the CI/CD pipeline and cloud security.
 Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
