@@ -1,15 +1,16 @@
 # Hello, I'm Bhushan
 <a href="https://www.linkedin.com/in/bhushan-wayal-81243628a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my GitHub repository! I'm a passionate cybersecurity engineer currently advancing my skills and knowledge through hands-on projects, real-world problem-solving, and continuous learning. This repository serves as a showcase of my journey, including personal projects,vulnerability research, and secure coding practices.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm a cybersecurity enthusiast with a strong focus on:
 
+Offensive Security: Red teaming, penetration testing, vulnerability assessments, and exploit development.
+DevSecOps: Automating security in the CI/CD pipeline and cloud security.
+Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
