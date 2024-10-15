@@ -56,4 +56,4 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 ## Projects
 - Detection Lab
 - SOC Automation Project
--<a href="https://www.linkedin.com/in/bhushan-wayal-81243628a/"> Hybrid Network Infrastructure
+- <a href="https://www.linkedin.com/in/bhushan-wayal-81243628a/"> Hybrid Network Infrastructure
