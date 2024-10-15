@@ -12,7 +12,6 @@ I'm a cybersecurity enthusiast with a strong focus on:
 
 Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -47,7 +46,6 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -59,3 +57,5 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Hybrid Network Infrastructure
+
