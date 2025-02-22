@@ -8,8 +8,6 @@ I'm a cybersecurity enthusiast with a strong focus on:
 
 **Offensive Security**: Red teaming, penetration testing, vulnerability assessments, and exploit development.
 
-**DevSecOps:** Automating security in the CI/CD pipeline and cloud security.
-
 Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 ## Skills
 
@@ -37,12 +35,6 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
@@ -54,6 +46,6 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 </div>
 
 ## Projects
-- Detection Lab
+- Volatile Memory Analysis
 - SOC Automation Project
 - <a href="https://github.com/wayalbhushan/Cybersecurity-Internship-Project"> Hybrid Network Infrastructure
