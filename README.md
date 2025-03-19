@@ -18,6 +18,7 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 | Security Automation with Shuffle SOAR         | 
 | Incident Response Planning and Execution      |
 | Scripting and Automation  |
+| Identity and Access Management  |
 
 ## Tools
 
