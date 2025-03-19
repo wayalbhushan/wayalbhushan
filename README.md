@@ -28,18 +28,16 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 
 ### Penetration Testing
 <div>
-    <img src="https://www.pngwing.com/en/free-png-xpnbg" />
-    <img src="https%3A%2F%2Fwww.angleritech.com%2Ftechnologies%2Fqa-automation-tools%2Fowasp-zap%2F&psig=AOvVaw130nm2n2ui7fHsvN80dMf5&ust=1742446335690000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjK9cyslYwDFQAAAAAdAAAAABAE" />
+    # Burpsuite
+    # OwaspZap
+    # SQLmap
 </div>
 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+# Google Certified Cyber Security Profesional
+# Cisco Junior Cyber Security Analyst
 </div>
 
 ## Projects
