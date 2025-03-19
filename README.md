@@ -28,19 +28,18 @@ Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 
 ### Penetration Testing
 <div>
-    # Burpsuite
-    # OwaspZap
-    # SQLmap
+    - Burpsuite
+    - OwaspZap
+    - SQLmap
 </div>
 
 
 ## Certifications
 <div>
-# Google Certified Cyber Security Profesional
-# Cisco Junior Cyber Security Analyst
+- Google Certified Cyber Security Profesional
+- Cisco Junior Cyber Security Analyst
 </div>
 
 ## Projects
-- Volatile Memory Analysis
-- SOC Automation Project
+- <a href ="https://github.com/wayalbhushan/volatile-memory-analysis.git"> Volatile Memory Analysis
 - <a href="https://github.com/wayalbhushan/Cybersecurity-Internship-Project"> Hybrid Network Infrastructure
