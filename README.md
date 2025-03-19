@@ -11,28 +11,25 @@ I'm a cybersecurity enthusiast with a strong focus on:
 Currently pursuing B.Tech in Computer Science from IIIT Bhopal.
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         |     
+|-----------------------------------------------|
+| SIEM Implementation and Log Analysis          | 
+| Network Traffic Monitoring and Attack Detection |
+| Security Automation with Shuffle SOAR         | 
+| Incident Response Planning and Execution      |
+| Scripting and Automation  |
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Penetration Testing
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://www.pngwing.com/en/free-png-xpnbg" />
+    <img src="https%3A%2F%2Fwww.angleritech.com%2Ftechnologies%2Fqa-automation-tools%2Fowasp-zap%2F&psig=AOvVaw130nm2n2ui7fHsvN80dMf5&ust=1742446335690000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjK9cyslYwDFQAAAAAdAAAAABAE" />
 </div>
 
 
