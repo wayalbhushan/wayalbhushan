@@ -8,8 +8,10 @@
 </pre>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com/%3Flines%3Droot%40bhushan:~%2524%2Bwhoami%3B%253E%2BOffensive%2BSecurity%2BSpecialist%3B%253E%2BFull-Stack%2BDeveloper%3B%253E%2BRed%2BTeamer%26font%3DJetBrains%2BMono%26center%3Dtrue%26width%3D600%26height%3D50%26color%3D00FF00%26pause%3D1000%26size%3D22" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=root@bhushan:~%24+whoami;%3E+Offensive+Security+Specialist;%3E+Full-Stack+Developer;%3E+Red+Teamer&font=JetBrains+Mono&center=true&width=600&height=50&color=00FF00&pause=1000&size=22" alt="Typing SVG" />
 </p>
+
 
 [+] About Me
 <p align="center">
