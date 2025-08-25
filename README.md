@@ -9,9 +9,7 @@
 </pre>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=root@bhushan:~$+whoami;>+Offensive+Security+Specialist;>+Full-Stack+Developer;>+Red+Teamer;>+VaultX+Creator&font=JetBrains+Mono&center=true&width=700&height=50&color=00FF00&pause=1000&size=22" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com/%3Flines%3Droot%40bhushan:~%2524%2Bwhoami%3B%253E%2BOffensive%2BSecurity%2BSpecialist%3B%253E%2BFull-Stack%2BDeveloper%3B%253E%2BRed%2BTeamer%26font%3DJetBrains%2BMono%26center%3Dtrue%26width%3D600%26height%3D50%26color%3D00FF00%26pause%3D1000%26size%3D22" alt="Typing SVG" /> </p>
 
 ---
 
@@ -59,18 +57,6 @@ I'm a security researcher and developer thriving between breaking & building. I 
 |---------|-------------|------|
 | 🛡️ **VaultX** | Secure secrets manager with AES-256 encryption, JWT auth & TOTP 2FA. **Live & Hosted**. | React, Node.js, MongoDB, AES-256, JWT, 2FA |
 | 🔬 **Volatile Memory Analyzer** | Detects fileless malware via memory forensics. Evades disk-based defenses. | Python, psutil, Forensics |
-
----
-
-### [*] System Status // Live Telemetry
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wayalbhushan&show_icons=true&theme=chartreuse-dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayalbhushan&layout=compact&theme=chartreuse-dark&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wayalbhushan&theme=dark-green" height="165"/>
-</p>
 
 ---
 
