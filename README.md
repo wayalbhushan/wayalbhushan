@@ -75,4 +75,3 @@ I'm a security researcher and developer thriving between breaking & building. I 
 
 ---
 
-<p align="center"><i>// E.O.F (End of File) — Stay stealthy ⚡</i></p>
