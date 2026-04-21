@@ -79,8 +79,13 @@ I am a Backend and Systems Engineer operating at the intersection of distributed
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake.svg">
-  </picture>
+    ### [*] Watchdog // Snake Animation
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</p>
 </p>
 
 <div align="center">
