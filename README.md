@@ -1,7 +1,8 @@
 <div align="center">
 
-# ⚡ Bhushan Wayal
-### Backend Systems | Network Security | High-Performance Engineering
+<a href="https://github.com/wayalbhushan">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%3E_root%40aegis%3A~%23+whoami;Bhushan+Wayal;Backend+Systems+%7C+Network+Security;C%2B%2B+%7C+Python+%7C+High-Performance+Engineering" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhushan-wayal-b71w44/" target="_blank">
@@ -75,7 +76,11 @@ I am a Backend and Systems Engineer operating at the intersection of distributed
 ## 🐍 Commit Trajectory
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <div align="center">
