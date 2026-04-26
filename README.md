@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/wayalbhushan">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%3E_root%40aegis%3A~%23+whoami;Bhushan+Wayal;Backend+Systems+%7C+Network+Security;C%2B%2B+%7C+Python+%7C+High-Performance+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%3E_root%40aegis%3A~%23+whoami;Bhushan+Wayal;Security+Systems+Engineer;C%2B%2B+%7C+Vector+Databases+%7C+Low-Level+Security" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -16,47 +16,48 @@
   </a>
 </p>
 
-I am a Backend and Systems Engineer operating at the intersection of distributed systems and offensive security. I specialize in **C++ multithreading, Python data pipelines, and deep network packet inspection**. Instead of just building surface-level APIs, I engineer infrastructure that handles messy data, strict cryptographic constraints, and high-throughput concurrency.
+I am a Systems Engineer operating at the intersection of **High-Performance C++ and Offensive Security**. I specialize in building "black box" infrastructure—Vector Databases, DPI engines, and memory forensics tools—from the metal up. I focus on thread-safe concurrency, SIMD optimization, and air-gapped AI architectures that prioritize data sovereignty over API reliance.
 
 </div>
 
 <br/>
 
-## 🛠️ Engineering Arsenal
+## 🛠️ Engineering & Security Arsenal
 
 <table>
   <tr>
-    <td width="30%"><b>Languages</b></td>
-    <td>C/C++, Python, Java, TypeScript, JavaScript, SQL, Bash</td>
+    <td width="30%"><b>Systems & Core</b></td>
+    <td>C/C++, GCC, Multithreading (std::mutex), SIMD (AVX), Memory Internals</td>
   </tr>
   <tr>
-    <td width="30%"><b>Backend & Architecture</b></td>
-    <td>Node.js, Express, Postgres, MongoDB, ACID Transactions, Multithreading</td>
+    <td width="30%"><b>Data & AI Infrastructure</b></td>
+    <td>Vector Databases (HNSW), Ollama (Local LLM), RAG, Python Pipelines</td>
   </tr>
   <tr>
-    <td width="30%"><b>Security & Networking</b></td>
-    <td>TCP/IP, TLS Handshakes, Packet Parsing (PCAP), Reverse Engineering, IAM/JWT</td>
+    <td width="30%"><b>Security Domains</b></td>
+    <td>VAPT, Deep Packet Inspection (DPI), Memory Forensics, TLS/SSL Hardening</td>
   </tr>
   <tr>
-    <td width="30%"><b>Infrastructure</b></td>
-    <td>Docker, AWS (EC2, S3), Git, Linux/Unix Internals</td>
+    <td width="30%"><b>Tools & Stacks</b></td>
+    <td>Linux/Unix, Git, Docker, Next.js, Postgres, MongoDB, Bash</td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,js,nodejs,postgres,mongodb,docker,aws,linux,git,bash&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,nodejs,postgres,mongodb,docker,aws,linux,git,bash,react,nextjs&theme=dark" alt="Tech Stack" />
 </p>
 
 <br/>
 
-## 🚀 Core Systems & Architecture
+## 🚀 Core Systems & Security Architecture
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🛡️ **[Aegis DPI](https://github.com/wayalbhushan/aegis-dpi)** | **High-Performance C++ Packet Engine** <br> A multi-threaded Deep Packet Inspection engine built from scratch. Reverse-engineers TLS Client Hello handshakes to extract SNI telemetry natively. Uses 5-tuple consistent hashing and thread-safe queues for zero data races. | `C++17`, `Multithreading`, `Networking` |
-| 🔗 **[Identity Graph](https://github.com/wayalbhushan/Identity-Reconciliation)** | **Resolution Engine & Backend** <br> A highly concurrent system traversing and merging fragmented identity clusters using Graph Connected-Components logic. Eliminates TOCTOU race conditions via strict Postgres ACID transactions. | `Node.js`, `TypeScript`, `Postgres` |
-| 🔐 **[VaultX](https://github.com/wayalbhushan/vaultx)** | **Secure Secret Manager & API** <br> A strict backend identity management API handling AES-256 encryption, JWT refresh cycles, and complete Two-Factor Authentication (2FA) workflows with immutable audit logging. | `React`, `Node.js`, `MongoDB` |
-| 🔬 **Memory Analyzer** | **Volatile Malware Forensics** <br> A forensic tool designed to detect fileless malware and process-injection attacks by parsing and analyzing raw memory dumps, evading standard disk-based defenses. | `Python`, `psutil` |
+| ⚡ **[NexusDB](https://github.com/wayalbhushan/NexusDB)** | **Bare-Metal Vector Engine & RAG** <br> A custom HNSW vector database written in C++17. Features offline RAG pipeline with local LLMs, manual SIMD loop unrolling for similarity math, and a custom Next.js observability console. | `C++17`, `HNSW`, `Ollama`, `Next.js` |
+| 🛡️ **[Aegis DPI](https://github.com/wayalbhushan/aegis-dpi)** | **High-Performance C++ Packet Engine** <br> Multi-threaded packet inspection engine. Reverse-engineers TLS Client Hello handshakes to extract telemetry with zero data races using 5-tuple hashing. | `C++17`, `Networking`, `DPI` |
+| 🔗 **[Identity Graph](https://github.com/wayalbhushan/Identity-Reconciliation)** | **Concurrency Resolution Engine** <br> Merges fragmented identity clusters using Graph logic. Strictly enforces ACID integrity in Postgres to prevent TOCTOU race conditions. | `Node.js`, `TypeScript`, `Postgres` |
+| 🔬 **Memory Analyzer** | **Volatile Malware Forensics** <br> Analyzes raw memory dumps to detect process-injection and fileless malware, bypassing traditional disk-based detection mechanisms. | `Python`, `Memory Parsing` |
+| 🔐 **[VaultX](https://github.com/wayalbhushan/vaultx)** | **Identity Management & Secrets** <br> Secure API handling AES-256 encryption cycles, JWT revocation, and 2FA workflows with immutable audit logging. | `React`, `Node.js`, `MongoDB` |
 
 <br/>
 
@@ -66,28 +67,10 @@ I am a Backend and Systems Engineer operating at the intersection of distributed
   <a href="https://github.com/wayalbhushan">
     <img src="https://github-readme-stats.vercel.app/api?username=wayalbhushan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/wayalbhushan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayalbhushan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
 </div>
 
 <br/>
 
-## 🐍 Commit Trajectory
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayalbhushan/wayalbhushan/output/github-contribution-grid-snake.svg">
-    ### [*] Watchdog // Snake Animation
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</p>
-</p>
-
 <div align="center">
-  <i>"I don't just use the tools; I build the tools."</i>
+  <i>"I build the tools that secure the backend, then I push them to their breaking point."</i>
 </div>
