@@ -31,15 +31,19 @@ I am a Systems Engineer operating at the intersection of **High-Performance C++ 
   </tr>
   <tr>
     <td width="30%"><b>Data & AI Infrastructure</b></td>
-    <td>Vector Databases (HNSW), Ollama (Local LLM), RAG, Python Pipelines</td>
+    <td>Vector Databases (HNSW), Ollama (Local LLM), RAG, PCA Dimensionality Reduction</td>
   </tr>
   <tr>
     <td width="30%"><b>Security Domains</b></td>
-    <td>VAPT, Deep Packet Inspection (DPI), Memory Forensics, TLS/SSL Hardening</td>
+    <td>VAPT, Deep Packet Inspection (DPI), Memory Forensics, Cryptography (AES/JWT), Reverse Engineering</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Networking & Protocols</b></td>
+    <td>TCP/IP Stacks, TLS Handshakes, 5-Tuple Hashing, Socket Programming</td>
   </tr>
   <tr>
     <td width="30%"><b>Tools & Stacks</b></td>
-    <td>Linux/Unix, Git, Docker, Next.js, Postgres, MongoDB, Bash</td>
+    <td>Linux/Unix, Git, Docker, Next.js, Postgres, MongoDB, Bash, AWS</td>
   </tr>
 </table>
 
@@ -70,6 +74,14 @@ I am a Systems Engineer operating at the intersection of **High-Performance C++ 
 </div>
 
 <br/>
+
+## 🐍 Watchdog // Snake Animation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  </picture>
+</p>
 
 <div align="center">
   <i>"I build the tools that secure the backend, then I push them to their breaking point."</i>
